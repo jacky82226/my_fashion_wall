@@ -1,0 +1,16 @@
+﻿feed_company_kind:
+1: 一般商品
+2: 折扣
+3: 活動
+4: 免郵
+
+feed_user_kind:
+1: 朋友訂閱
+
+user_like_kind:
+1:店家
+2:風格
+
+代改:
+url網址
+submit時間區域
